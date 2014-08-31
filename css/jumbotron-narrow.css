@@ -60,6 +60,20 @@ body {
   margin-top: 28px;
 }
 
+.pic {
+  width: 100px;
+  height: 100px;
+  float: left;
+}
+
+.email {
+  text-align: left;
+  line-height: 100px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 120px;
+}
+
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
   /* Remove the padding we set earlier */
